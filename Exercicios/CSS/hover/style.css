@@ -1,0 +1,25 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+
+.texto_oculto:hover{
+    color: red;
+}
+.texto_oculto > a {
+    display: none;
+    width: 200px;
+    
+    
+}
+.texto_oculto:hover > a {
+    display: block;
+    color: whitesmoke;
+    background-color: blueviolet;
+    text-align: center;
+}
+a:hover{
+    color :black !important;
+    zoom: 200%;
+    text-decoration: none;
+}

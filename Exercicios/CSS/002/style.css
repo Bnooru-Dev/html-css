@@ -1,0 +1,11 @@
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #00FF6F; }
+.My-Color-Theme-2-hex { color: #FFA200; }
+.My-Color-Theme-3-hex { color: #9900FF; }
+.My-Color-Theme-4-hex { color: #39AA6A; }
+.My-Color-Theme-5-hex { color: #806840; }
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(-90deg, rgba(2,0,36,1) 0%, rgba(195,195,231,1) 41%, rgba(0,212,255,1) 100%);
+}

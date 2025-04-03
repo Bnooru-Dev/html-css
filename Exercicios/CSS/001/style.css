@@ -1,0 +1,21 @@
+
+
+body {
+    background-color: #074441;
+    color: #e992da;
+}
+h1{
+    color: rgb(56, 13, 247);
+    background-color: rgb(83, 228, 0);
+}
+h2{
+    color: #ee4816;
+}
+a{
+    color: #00ff15;
+    text-decoration: none;
+}
+a:hover{
+    color: #e1eee3;
+    zoom: 110%;
+}

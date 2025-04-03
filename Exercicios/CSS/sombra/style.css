@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(240, 204, 158);
+}
+
+.principal_sombra{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
